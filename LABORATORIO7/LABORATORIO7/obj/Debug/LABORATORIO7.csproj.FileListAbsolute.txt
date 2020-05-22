@@ -1,0 +1,10 @@
+C:\Users\Medicos\Desktop\Laboratorio 7\laboratorio-07-ivanarturosantivanezvela\LABORATORIO7\LABORATORIO7\bin\Debug\LABORATORIO7.exe.config
+C:\Users\Medicos\Desktop\Laboratorio 7\laboratorio-07-ivanarturosantivanezvela\LABORATORIO7\LABORATORIO7\bin\Debug\LABORATORIO7.exe
+C:\Users\Medicos\Desktop\Laboratorio 7\laboratorio-07-ivanarturosantivanezvela\LABORATORIO7\LABORATORIO7\bin\Debug\LABORATORIO7.pdb
+C:\Users\Medicos\Desktop\Laboratorio 7\laboratorio-07-ivanarturosantivanezvela\LABORATORIO7\LABORATORIO7\obj\Debug\LABORATORIO7.csprojAssemblyReference.cache
+C:\Users\Medicos\Desktop\Laboratorio 7\laboratorio-07-ivanarturosantivanezvela\LABORATORIO7\LABORATORIO7\obj\Debug\LABORATORIO7.Form1.resources
+C:\Users\Medicos\Desktop\Laboratorio 7\laboratorio-07-ivanarturosantivanezvela\LABORATORIO7\LABORATORIO7\obj\Debug\LABORATORIO7.Properties.Resources.resources
+C:\Users\Medicos\Desktop\Laboratorio 7\laboratorio-07-ivanarturosantivanezvela\LABORATORIO7\LABORATORIO7\obj\Debug\LABORATORIO7.csproj.GenerateResource.cache
+C:\Users\Medicos\Desktop\Laboratorio 7\laboratorio-07-ivanarturosantivanezvela\LABORATORIO7\LABORATORIO7\obj\Debug\LABORATORIO7.csproj.CoreCompileInputs.cache
+C:\Users\Medicos\Desktop\Laboratorio 7\laboratorio-07-ivanarturosantivanezvela\LABORATORIO7\LABORATORIO7\obj\Debug\LABORATORIO7.exe
+C:\Users\Medicos\Desktop\Laboratorio 7\laboratorio-07-ivanarturosantivanezvela\LABORATORIO7\LABORATORIO7\obj\Debug\LABORATORIO7.pdb
