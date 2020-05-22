@@ -14,6 +14,7 @@ namespace LABORATORIO7
     {
         string operation = "";
         double firstnumber,secondnumber;
+        List<string> numeros = new List<string>();
         public Form1()
         {
             InitializeComponent();
@@ -22,7 +23,7 @@ namespace LABORATORIO7
         private void Numericvalue(object sender, EventArgs e)
         {
             Button b = (Button)sender;
-            if (txtDisplay.Text.Trim() =="0")
+            if (txtDisplay.Text.Trim()=="0")
             {
                 txtDisplay.Text ="";
             }
@@ -75,21 +76,37 @@ namespace LABORATORIO7
             {
                 case "+":
                     txtDisplay.Text = Convert.ToString(firstnumber + secondnumber);
+                    numeros.Add(txtDisplay.Text);
                     break;
                 case "-":
                     txtDisplay.Text = Convert.ToString(firstnumber - secondnumber);
+                    numeros.Add(txtDisplay.Text);
                     break;
                 case "*":
                     txtDisplay.Text = Convert.ToString(firstnumber*secondnumber);
+                    numeros.Add(txtDisplay.Text);
                     break;
                 case "/":
-                    txtDisplay.Text = Convert.ToString(firstnumber / secondnumber);
+                    if (secondnumber == 0)
+                    {
+                        txtDisplay.Text = "Math error";
+                    }
+                    else 
+                    {
+                        txtDisplay.Text = Convert.ToString(firstnumber / secondnumber);
+                        numeros.Add(txtDisplay.Text);
+                    }
                     break;
                 default:
                     break;
 
 
             }
+        }
+
+        private void btnlastresult_Click(object sender, EventArgs e)
+        {
+            txtDisplay.Text = numeros.Last();
         }
 
         private void Form1_Load(object sender, EventArgs e)

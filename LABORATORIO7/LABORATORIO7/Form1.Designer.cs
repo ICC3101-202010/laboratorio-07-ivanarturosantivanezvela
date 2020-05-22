@@ -99,6 +99,7 @@
             this.btnlastresult.TabIndex = 3;
             this.btnlastresult.Text = "ANS";
             this.btnlastresult.UseVisualStyleBackColor = false;
+            this.btnlastresult.Click += new System.EventHandler(this.btnlastresult_Click);
             // 
             // button4
             // 
