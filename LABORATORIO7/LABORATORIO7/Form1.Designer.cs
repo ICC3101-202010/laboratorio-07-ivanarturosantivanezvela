@@ -304,7 +304,7 @@
             this.btnpoint.Name = "btnpoint";
             this.btnpoint.Size = new System.Drawing.Size(80, 65);
             this.btnpoint.TabIndex = 18;
-            this.btnpoint.Text = ".";
+            this.btnpoint.Text = ",";
             this.btnpoint.UseVisualStyleBackColor = false;
             this.btnpoint.Click += new System.EventHandler(this.Numericvalue);
             // 

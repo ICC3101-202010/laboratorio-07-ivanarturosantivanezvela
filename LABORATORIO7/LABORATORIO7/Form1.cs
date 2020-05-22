@@ -28,9 +28,9 @@ namespace LABORATORIO7
                 txtDisplay.Text ="";
             }
  
-            if (b.Text == ".")
+            if (b.Text == ",")
             {
-                if (!txtDisplay.Text.Contains("."))
+                if (!txtDisplay.Text.Contains(","))
                 {
                     txtDisplay.Text = txtDisplay.Text + b.Text;
                 }
